@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/showroom-login/static/css/main.d0845080.css",
+    "main.js": "/showroom-login/static/js/main.62d89f94.js",
+    "static/js/453.420f4196.chunk.js": "/showroom-login/static/js/453.420f4196.chunk.js",
+    "static/media/svg": "/showroom-login/static/media/2d82b92e720462f8dd3b.2d82b92e720462f8dd3b.svg",
+    "index.html": "/showroom-login/index.html",
+    "main.d0845080.css.map": "/showroom-login/static/css/main.d0845080.css.map",
+    "main.62d89f94.js.map": "/showroom-login/static/js/main.62d89f94.js.map",
+    "453.420f4196.chunk.js.map": "/showroom-login/static/js/453.420f4196.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0845080.css",
+    "static/js/main.62d89f94.js"
+  ]
+}
